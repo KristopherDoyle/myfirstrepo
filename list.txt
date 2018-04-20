@@ -1,10 +1,9 @@
-<<<<<<< HEAD
 milk
 butter
 bread
 jam
-=======
 beer
 carlsberg
->>>>>>> f1
 heineken
+chips
+
